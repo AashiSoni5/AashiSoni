@@ -48,3 +48,14 @@ Here are some screenshots of the process and the project:-
 
 And here's the link of the model:-
 https://teachablemachine.withgoogle.com/models/[...]
+
+Dataset links:-
+https://drive.google.com/drive/folders/1usqus4qXT393px-G3wiX5ZM_kjC76Eun?usp=drive_link
+
+https://drive.google.com/drive/folders/1jLj54ITXShxVaahr2xnQ6O-6bHbBFQ26?usp=drive_link
+
+https://drive.google.com/drive/folders/1rdVrvwRaAEKWSrro4EX5OWlrUiyvHKVq?usp=drive_link
+
+https://drive.google.com/drive/folders/1_cMmiq__ETtNoYSyoHDoCvMZpJIVU7a0?usp=drive_link
+
+https://drive.google.com/drive/folders/18bE-MlfTs55yMINK4ouawUVLPfopwHXe?usp=drive_link
